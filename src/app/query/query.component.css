@@ -1,0 +1,11 @@
+.box1
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('../../assets/feedback_2.png');
+    background-repeat: no-repeat;
+    background-size: cover
+}

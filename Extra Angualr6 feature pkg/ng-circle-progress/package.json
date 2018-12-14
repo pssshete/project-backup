@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      "ng-circle-progress",
+      "/home/sunbeam"
+    ]
+  ],
+  "_from": "ng-circle-progress@latest",
+  "_hasShrinkwrap": false,
+  "_id": "ng-circle-progress@1.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ng-circle-progress",
+  "_nodeVersion": "8.11.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ng-circle-progress_1.3.0_1539444255340_0.16188209272764342"
+  },
+  "_npmUser": {
+    "email": "bootsoon@aliyun.com",
+    "name": "bootsoon"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ng-circle-progress",
+    "raw": "ng-circle-progress",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng-circle-progress/-/ng-circle-progress-1.3.0.tgz",
+  "_shasum": "28e2d3154f5356cf348758879cf8a57da860b16c",
+  "_shrinkwrap": null,
+  "_spec": "ng-circle-progress",
+  "_where": "/home/sunbeam",
+  "author": {
+    "email": "bootsoon@aliyun.com",
+    "name": "bootsoon"
+  },
+  "bugs": {
+    "url": "https://github.com/bootsoon/ng-circle-progress/issues"
+  },
+  "dependencies": {},
+  "description": "A simple circle progress component created for Angular based only on SVG graphics",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 7,
+    "integrity": "sha512-NHCgY6xqAw7KYsph7Zw091GQD2EDmsPsBzGMr+yJuuCjBzhQSvB6pD95ZVqCIk/IDJ8FA1SAtFPAszZ3BbHHqw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbwg4gCRA9TVsSAnZWagAAYLEP/0uGKGizCHhX3l6rkfmW\n0QJq/gLQKQM2vDms+zECumAgP4dp5TZsi98rkTeOQ2kSQcPEJqSyqwfd2DXF\n9Whe5nL/4g/yIvhEG5mC7u2T9kX/vsY0I/ciRGvO8gnz+TSrMygXEPach75C\nQePcsp64RvIsrVvKIuMGiZyfJt4KmLFZYFCSICQtJ6s1m+8/VUdH+MTsr8IU\nIBo9RQy6CZi/W1PYbpXVeC9m06u38kow4vz4feQj5fZdR8bSCDkbiBtrE5L+\nTXq8lkE73W4F8P4gQOK+83Dt3eQGh4OOAGKJnxFQMjAU3Jdfducspa1ncp3b\nGwyNENjeUczoMUWalBDKhiU36hbMYD+q/PN63NiucKkrHrBZ0InZPmCtAaBo\nmHzG0fnvIpp8dW/PR2RYbTtiL6iptU7ku17nbaJ7i/gqkCxEZ9C6M1oXYFra\n/U72G3V1fiAWwxq7uSBahkH618dXGVUQB09LDHcE346XFbQ1kSAyUyFfL6F3\npQgPB9Pz/MqzL4eiHNmATugdBXc/HHLPUmZNbHElexLUKfSTuU6j0ixHz3rF\nuWLtbQNLb/q94eBNApXLssyIHKSFpk+Ous8MnegPUdW1osEYgRQoV8jInJ66\nodT9vq44BUID2ehCMgylE+brXRdzmbwhYwgBp5K3hsOEISsLegvMmGD/kGzb\n1NYz\r\n=v+yh\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "28e2d3154f5356cf348758879cf8a57da860b16c",
+    "tarball": "https://registry.npmjs.org/ng-circle-progress/-/ng-circle-progress-1.3.0.tgz",
+    "unpackedSize": 51346
+  },
+  "homepage": "https://github.com/bootsoon/ng-circle-progress#readme",
+  "keywords": [
+    "angular",
+    "circle",
+    "percentage",
+    "progress"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "bootsoon",
+      "email": "bootsoon@aliyun.com"
+    }
+  ],
+  "module": "ng-circle-progress.js",
+  "name": "ng-circle-progress",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": ">=4.0.0",
+    "rxjs": "^6.2.1",
+    "zone.js": "^0.8.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootsoon/ng-circle-progress.git"
+  },
+  "typings": "ng-circle-progress.d.ts",
+  "version": "1.3.0"
+}

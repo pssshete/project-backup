@@ -1,0 +1,50 @@
+.header2
+{
+    position: absolute;
+    top: 20px;
+    left:400px;
+}
+.box1
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top:0;
+}
+.header1
+{
+    position: absolute;
+    left: 0;
+    text-align: center;
+    top: 17px
+}
+.sidebar
+{
+    position: absolute;
+    top:80px;
+    width: 250px;
+    height: 590px;
+    background-color:#E0E0E3 
+}
+.box2
+{
+    height:100px;
+    background-color: black;
+    width: 100%
+}
+.main
+{
+    position: absolute;
+    top: 80px;
+    width:1045px;
+    height: 590px;
+    left: 250px;
+    /* background-image: url('../../assets/Meeting_1.jpg');  */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .mySlides {display:none} */
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
